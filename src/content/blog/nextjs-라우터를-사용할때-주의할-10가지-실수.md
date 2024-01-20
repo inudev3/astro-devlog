@@ -9,10 +9,11 @@ draft: false
 tags:
   - nextjs
   - router
-description: "aws serverless study"
+description: "10 common mistakes when using nextjs app router"
 ---
 
-Nextjs에서 흔히 저지르는 10가지 실수
+### Nextjs에서 흔히 저지르는 10가지 실수
+
 [출처:Vercel 공식 유튜브](https://www.youtube.com/watch?v=RBM03RihZVs)
 
 1. route handler는 서버 컴포넌트에서 내부적으로 데이터를 페칭하기 위한 용도로 사용하지 않는다. 내부적으로 사용할 거라면 route handler가 아니라 외부 api 호출 함수를 따로 만들자.
