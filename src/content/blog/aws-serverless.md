@@ -1,7 +1,7 @@
 ---
 author: Inu Jung
 pubDatetime: 2024-01-20T19:26:09Z
-modDatetime: 2023-03-26T09:12:47.400Z
+modDatetime: 2024-01-20T20:19:22Z
 title: aws-serverless
 slug: aws-serverless
 featured: true
@@ -10,26 +10,6 @@ tags:
   - aws
   - serverless
 description: "aws serverless study"
----
-
----
-
-author: Inu Jung
-pubDatetime: 2024-01-20T19:26:09Z
-modDatetime: 2023-03-26T09:12:47.400Z
-title: AWS serverless
-slug: aws-serverless
-featured: true
-draft: false
-tags:
-
-- aws
-- serverles
-- lambda
-- dynamoDB
-- gateway
-  description: AWS Serverless 정리
-
 ---
 
 서버레스는 `개발자가 관리하지 않아도 되는 것`을 의미하는 범용적인 개념이다. 애초에는 AWS lambda의 `Function as a Service`개념으로부터 출발하였으나, 이제는 AWS가 관리해주는 모든 것을 의미한다.

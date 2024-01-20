@@ -12,7 +12,7 @@ tags:
 description: "10 common mistakes when using nextjs app router"
 ---
 
-### Nextjs에서 흔히 저지르는 10가지 실수
+### Nextjs App Router를 사용할 때 흔히 저지르는 10가지 실수
 
 [출처:Vercel 공식 유튜브](https://www.youtube.com/watch?v=RBM03RihZVs)
 
